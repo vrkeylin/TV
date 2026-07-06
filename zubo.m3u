@@ -193,8 +193,6 @@ http://192.168.100.1:5140/udp/233.50.201.178:5140
 http://192.168.100.1:5140/udp/233.50.201.179:5140
 #EXTINF:-1 tvg-id="宁波4影视" tvg-name="宁波4影视" tvg-logo="https://myepg.org/Logo/宁波影视剧.png" group-title="地方",宁波4影视
 http://192.168.100.1:5140/udp/233.50.201.180:5140
-#EXTINF:-1 tvg-id="宁波5少儿" tvg-name="宁波5少儿" tvg-logo="https://myepg.org/Logo/宁波影视剧.png" group-title="地方",宁波5少儿
-http://192.168.100.1:5140/udp/233.50.201.181:5140 
 #EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://myepg.org/Logo/温州新闻综合.png" group-title="地方",温州新闻综合
 http://192.168.100.1:5140/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="https://myepg.org/Logo/温州经济科技.png" group-title="地方",温州经济科技
